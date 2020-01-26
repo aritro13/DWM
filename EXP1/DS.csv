@@ -1,0 +1,11 @@
+Transaction,Income,Credit,Decision
+1,Very Heigh,Excellent,Authorized
+2,Heigh,Good,Authorized
+3,Medium,Excellent,Authorized
+4,Heigh,Good,Authorized
+5,Very Heigh,Good,Authorized
+6,Medium,Excellent,Authorized
+7,Heigh,bad,Request ID
+8,Medium,bad,Request ID
+9,Heigh,bad,Reject
+10,Low,bad,Call Police
